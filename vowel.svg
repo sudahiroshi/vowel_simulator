@@ -1,0 +1,22 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000" ry="101.000001" rx="110.499995" id="svg_2" cy="187.437501" cx="310.49999" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#000" transform="rotate(36 210.14561462402332,375.8127136230469) " ry="152.466946" rx="79.261377" id="svg_3" cy="375.812714" cx="210.145614" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#000" transform="rotate(36 508.1719970703122,293.5236206054688) " ry="166.033707" rx="69.500002" id="svg_4" cy="293.523574" cx="508.172003" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#000" transform="rotate(45 328.47311401367193,499.0372009277343) " ry="165.559809" rx="69.500002" id="svg_5" cy="499.037245" cx="328.473116" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#000" transform="rotate(36 152.7345581054686,190.00207519531256) " ry="170.388929" rx="100.206913" id="svg_6" cy="190.00205" cx="152.73457" stroke-width="1.5" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="236.4375" x="75" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">イ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="177.4375" x="324" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">エ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="412.4375" x="157" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">ウ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="546.4375" x="256" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">オ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="257.4375" x="506" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">ア</text>
+ </g>
+</svg>
