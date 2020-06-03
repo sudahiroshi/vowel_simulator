@@ -4,6 +4,7 @@ class Vowel {
     this.ctx = this.id.getContext("2d");
     this.rect = this.id.getBoundingClientRect();
     console.log(this.rect);
+    window.AudioContext = window.webkitAudioContext || window.AudioContext;
     this.audioCtx = new AudioContext();
 
     //    this.id.addEventListener('mousemove', (e) => {
